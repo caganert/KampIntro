@@ -5,9 +5,11 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{3EAF38FF-C3F5-4367-A6F6-4F712A6E5BC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{609574AD-9531-4AAA-81A1-4490B1EFAF4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{609574AD-9531-4AAA-81A1-4490B1EFAF4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{C31D1CAE-11EB-4B30-8100-0655989E84AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{C31D1CAE-11EB-4B30-8100-0655989E84AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{7F859434-634D-4B38-ACE4-35A1E64FD422}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C31D1CAE-11EB-4B30-8100-0655989E84AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C31D1CAE-11EB-4B30-8100-0655989E84AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C31D1CAE-11EB-4B30-8100-0655989E84AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F859434-634D-4B38-ACE4-35A1E64FD422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F859434-634D-4B38-ACE4-35A1E64FD422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F859434-634D-4B38-ACE4-35A1E64FD422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F859434-634D-4B38-ACE4-35A1E64FD422}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
