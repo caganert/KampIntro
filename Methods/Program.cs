@@ -34,6 +34,19 @@ namespace Methods
                 Console.WriteLine("------------------------");
             }
 
+            Console.WriteLine("-------Metotlar------");
+
+            //instance - örnek
+            //encapsulation
+
+            CartManager cartManager = new CartManager();
+            cartManager.Add(product1);
+            cartManager.Add(product2);
+
+            //cartManager.Add2("Armut", "Yeşil armut", 12, 10);
+            //cartManager.Add2("Elma", "Kırmızı elma", 8, 9);
+            //cartManager.Add2("Karpuz", "Diyarbakır karpuzu", 20, 8);
+
         }
     }
 }
